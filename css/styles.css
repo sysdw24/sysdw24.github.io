@@ -374,6 +374,18 @@ tr.sch:hover {
 }
  */
 
+button.sch{
+  text-align: left;
+  border: none;
+  background-color: transparent;
+  color: #645394;
+  width: 1000px;
+}
+
+span.hidden{
+  display: none;
+}
+
 td.sch.work{
   background-color: #ffdde0;
 }
